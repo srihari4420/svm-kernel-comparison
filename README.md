@@ -49,5 +49,5 @@ the code and materials.
 
 ```bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>cd <your-repo-name>git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
 cd <your-repo-name>
